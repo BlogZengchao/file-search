@@ -11,6 +11,7 @@ public class FileSearchApplicationTests {
 
     @Test
     public void contextLoads() {
+        int a =1;
     }
 
 }
